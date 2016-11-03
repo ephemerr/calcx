@@ -13,10 +13,8 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        calcx.cpp \
-    printbutton.cpp
+        calcx.cpp
 
-HEADERS  += calcx.h \
-    printbutton.h
+HEADERS  += calcx.h
 
 FORMS    += calcx.ui
